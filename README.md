@@ -4,8 +4,6 @@
 
 > "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
 
-![screenshot](./app_screenshot.png)
-
 # Project requirements
 
 - Create class methods to add and remove books.
@@ -32,11 +30,6 @@
 - CSS
 - Git & Gitflow
 - Javascript
-
-## Live Demo
-
-[Live Demo](https://jaujau088.github.io/awesome-books-luci-jau-joy/)
-
 
 ## Getting Started
 
