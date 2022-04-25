@@ -12,6 +12,8 @@ const navList = document.querySelector('#list');
 const navAdd = document.querySelector('#add');
 const navContact = document.querySelector('#contact');
 
-const dateTime = document.getElementById("date-time")
+const dateTime = document.getElementById('date-time');
 
-export {title, author, form, bookList, allBooks, addBook, contact, navList, navAdd, navContact, dateTime};
+export {
+  title, author, form, bookList, allBooks, addBook, contact, navList, navAdd, navContact, dateTime,
+};
