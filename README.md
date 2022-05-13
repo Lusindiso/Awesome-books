@@ -2,7 +2,7 @@
 
 # Awesome books
 
-> "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
+> "Awesome books" is a simple website that is built with JavaScript, it displays a list of books and allows you to add and remove books from that list, and uses localstorage to save data through sessions.
 
 # Project requirements
 
